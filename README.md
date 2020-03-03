@@ -4,4 +4,4 @@ This program follows Pomax's tutorial (see link below) and uses his Pjs-2D-Game-
 
 Pomax: https://github.com/Pomax
 
-Tutorial: http://processingjs.nihongoresources.com/test/PjsGameEngine/docs/tutorial/mario.html
+Tutorial: http://processingjs.nihongoresources.com/test/PjsGameEngine/docs/tutorial/basic.html
